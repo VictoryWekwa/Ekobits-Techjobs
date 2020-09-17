@@ -1,0 +1,11 @@
+1. touch restricted.txt
+2. chmod 770 restricted.txt
+3. chmod ug+rwx,o-rwx restricted.txt
+4. mkdir secret_files 
+   cd secret_files
+   touch first_secret.txt
+   mkdir classified
+   touch super_secret.txt
+5. chmod -R 775 secret_files
+6. ln restricted.txt hard_link
+7. ln -s -r classified classified_link
