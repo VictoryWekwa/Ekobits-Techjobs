@@ -1,0 +1,2 @@
+1. export FIRST_NAME=/Users/tim/Vitory
+2. 
