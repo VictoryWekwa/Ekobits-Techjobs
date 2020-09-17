@@ -1,0 +1,1 @@
+git revert undo a commit while git reset removes the commit from the commit history and appends a new commit.
