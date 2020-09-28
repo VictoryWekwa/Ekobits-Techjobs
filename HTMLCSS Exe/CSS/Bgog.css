@@ -1,0 +1,11 @@
+.lang1,.lang2 {
+	color: blue;
+}
+.main {
+	box-sizing: border-box;
+	border-radius: 50px;
+}
+header h1 {
+	text-align: center;
+	text-decoration-color: rgb(0,0,1);
+}
